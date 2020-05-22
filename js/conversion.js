@@ -1,4 +1,4 @@
-let val; 
+let val; // Defining a variable
 
 // Number to string
 val = String(555);
